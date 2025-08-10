@@ -1,0 +1,17 @@
+{
+  "filename": "large_sample_articles_of_association.docx",
+  "document_type": "AoA/MoA",
+  "checklist_results": {
+    "Company name includes 'Limited' or 'Ltd.' (if applicable)": "Yes",
+    "Registered office address is within ADGM": "Yes",
+    "Objects clause is clearly defined": "Yes",
+    "Share capital structure is compliant with ADGM regulations": "No",
+    "Details of directors are provided": "Yes",
+    "Details of shareholders are provided": "Yes",
+    "Articles of Association are present and comply with ADGM rules": "Yes"
+  },
+  "red_flags": [
+    "Share capital structure is compliant with ADGM regulations: The provided text states a share capital of AED 100,000.  The ADGM rules context does not explicitly state a minimum share capital requirement for private limited companies. However, without access to the specific Companies Regulations 2020 referenced in the document text (or further details from the links provided which I cannot directly access), it is impossible to definitively confirm compliance.  The lack of this information prevents confirmation of compliance."
+  ],
+  "review_timestamp": "2025-08-10T09:57:55.327577"
+}
